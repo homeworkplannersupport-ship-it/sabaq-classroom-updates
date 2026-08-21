@@ -1,7 +1,10 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0-alpha",
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/v0.1.0-alpha/Sabaq-Classroom-v0.1.0-alpha.apk",
-  "sha256": "e2bd66c62da9bca891f8bafb4aa0f66c794d6f95ed29b6be40a8aeeeadf32980",
-  "notes": "First independent Sabaq Classroom alpha with student and teacher workspaces."
+  "versionCode": 2,
+  "versionName": "0.2.0-alpha-build-2",
+  "buildName": "Build 2",
+  "packageName": "com.foxlabs.sabaqclassroom",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/build-2/Sabaq-Classroom-Build-2.apk",
+  "sha256": "d907e124a8d70bd01eda17cb4cd42fa0d037b0f0fd38a3f93fa08128dafbc9c3",
+  "signingCertificateSha256": "236578ddfbd57a801a0c67592e4c5f40e02fade9a774b8a973f97c9eac7c413a",
+  "notes": "Offline-first alpha with role accounts, editable classroom lifecycle, local drafts, receipts, unsubmit/resubmit, assignment-linked focus, editable journal, reminders, and secure updates."
 }
