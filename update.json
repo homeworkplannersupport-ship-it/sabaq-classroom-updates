@@ -1,10 +1,10 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0-alpha-build-3",
-  "buildName": "Build 3",
+  "versionCode": 4,
+  "versionName": "0.4.0-alpha-build-4",
+  "buildName": "Build 4",
   "packageName": "com.foxlabs.sabaqclassroom",
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/build-3/Sabaq-Classroom-Build-3.apk",
-  "sha256": "20bba9652859725cff2ed90ba628197a593742c0f1dabd45888b148b86f73bbb",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/build-4/Sabaq-Classroom-Build-4.apk",
+  "sha256": "c767221671a202cded898a36f472656140840d341c62f45a45e59288c8307df5",
   "signingCertificateSha256": "236578ddfbd57a801a0c67592e4c5f40e02fade9a774b8a973f97c9eac7c413a",
-  "notes": "Assignment lifecycle, scheduled publishing, revision history, classroom management, accounts, submissions, reminders, haptics, and sound polish."
+  "notes": "Classroom overhaul with Google sign-in linking, teacher workload insights, student workload planning, private reminders, improved hand-in review, settings, and update history."
 }
