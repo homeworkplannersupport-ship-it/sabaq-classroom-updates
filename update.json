@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7.0-alpha-build-7",
-  "buildName": "Build 7",
+  "versionCode": 8,
+  "versionName": "0.8.0-alpha-build-8",
+  "buildName": "Build 8",
   "packageName": "com.foxlabs.sabaqclassroom",
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/build-7/Sabaq-Workspace-Build-7.apk",
-  "sha256": "92eddac3280af2d1b5e5d95d32efa7288868991b7e6c37f9e8e07d485e41bfb9",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/build-8/Sabaq-Workspace-Build-8.apk",
+  "sha256": "97eb6b5583167e4eba317fc354e3d493c7ef273b7f41a9b9225e890a250e8f90",
   "signingCertificateSha256": "236578ddfbd57a801a0c67592e4c5f40e02fade9a774b8a973f97c9eac7c413a",
-  "notes": "Real email/password accounts with verified email, role-based onboarding, student profiles, and online classroom invitations with Accept or Decline."
+  "notes": "Teacher classroom creation, admin-managed student accounts, stable sign-in recovery, password visibility controls, and secure first-administrator restoration after the confirmed reset."
 }
