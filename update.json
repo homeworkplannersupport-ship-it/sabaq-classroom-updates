@@ -1,10 +1,10 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8.0-alpha-build-8",
-  "buildName": "Build 8",
+  "versionCode": 9,
+  "versionName": "0.9.0-alpha-build-9",
+  "buildName": "Build 9",
   "packageName": "com.foxlabs.sabaqclassroom",
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/build-8/Sabaq-Workspace-Build-8.apk",
-  "sha256": "97eb6b5583167e4eba317fc354e3d493c7ef273b7f41a9b9225e890a250e8f90",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/build-9/Sabaq-Workspace-Build-9.apk",
+  "sha256": "0c140e6a5742240efe84907f4cd6c2f320849afe622e461e24ef4e66a667785d",
   "signingCertificateSha256": "236578ddfbd57a801a0c67592e4c5f40e02fade9a774b8a973f97c9eac7c413a",
-  "notes": "Teacher classroom creation, admin-managed student accounts, stable sign-in recovery, password visibility controls, and secure first-administrator restoration after the confirmed reset."
+  "notes": "Automatic verification, secure password and support tools, immediate classroom refresh, co-teacher management, background publishing, and countdown-protected permanent deletion."
 }
