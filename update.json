@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5.0-alpha-build-5",
-  "buildName": "Build 5",
+  "versionCode": 6,
+  "versionName": "0.6.0-alpha-build-6",
+  "buildName": "Build 6",
   "packageName": "com.foxlabs.sabaqclassroom",
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/build-5/Sabaq-Workspace-Build-5.apk",
-  "sha256": "9e678f20681f3923fe163e93a1419e18cf116e0531f5957a514f218cc05fcff0",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/build-6/Sabaq-Workspace-Build-6.apk",
+  "sha256": "d76d85781e51d843d9ba541c08421157f47721a58ae27bfa6d4e36673bb6afc3",
   "signingCertificateSha256": "236578ddfbd57a801a0c67592e4c5f40e02fade9a774b8a973f97c9eac7c413a",
-  "notes": "Sabaq Workspace Build 5: live classrooms, synced accounts, teacher publishing, student hand-in, reminders, workload views, secure recovery, guardian links, attachments, settings, and update logs."
+  "notes": "Mishkaat classroom workspace: rich classwork, discussions, optional grades, co-teachers, announcements, secure sync."
 }
