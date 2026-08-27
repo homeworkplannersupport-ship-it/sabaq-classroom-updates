@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6.0-alpha-build-6",
-  "buildName": "Build 6",
+  "versionCode": 7,
+  "versionName": "0.7.0-alpha-build-7",
+  "buildName": "Build 7",
   "packageName": "com.foxlabs.sabaqclassroom",
-  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/build-6/Sabaq-Workspace-Build-6.apk",
-  "sha256": "d76d85781e51d843d9ba541c08421157f47721a58ae27bfa6d4e36673bb6afc3",
+  "apkUrl": "https://github.com/homeworkplannersupport-ship-it/sabaq-classroom-updates/releases/download/build-7/Sabaq-Workspace-Build-7.apk",
+  "sha256": "92eddac3280af2d1b5e5d95d32efa7288868991b7e6c37f9e8e07d485e41bfb9",
   "signingCertificateSha256": "236578ddfbd57a801a0c67592e4c5f40e02fade9a774b8a973f97c9eac7c413a",
-  "notes": "Mishkaat classroom workspace: rich classwork, discussions, optional grades, co-teachers, announcements, secure sync."
+  "notes": "Real email/password accounts with verified email, role-based onboarding, student profiles, and online classroom invitations with Accept or Decline."
 }
